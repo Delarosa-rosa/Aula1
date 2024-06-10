@@ -6,4 +6,6 @@ Salvando alterações no Git
 
 *Uso do comando git Restore
 
-* Comando git push 
+* Comando git push
+
+* Comando git pull 
