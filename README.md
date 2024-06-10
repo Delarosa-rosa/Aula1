@@ -4,4 +4,6 @@
 
 Salvando alterações no Git
 
-*Uso do Comando git restore
+*Uso do comando git Restore
+
+* Comando git push 
